@@ -1,0 +1,14 @@
+input {
+  width: 150px;
+}
+
+button {
+  background-color: darkcyan;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+}
+
+label {
+  font-size: 18px;
+}
