@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab1TempConverter
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.24.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Lab1Calculator
+Angular Lab 1 Calculator 
+>>>>>>> 6b7c07d56b4af95dfa8af7b04d434034ca8daa88
